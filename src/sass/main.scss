@@ -1,0 +1,80 @@
+* {
+   box-sizing: border-box;
+   font-family: 'Roboto', sans-serif;
+   list-style-type: none;
+}
+
+.navbar {
+  background: white;
+  height: 130px;
+
+  .navbar-brand {
+    font-size: 35px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    padding-left: 70px;
+    padding-top: 50px;
+    color: black;
+  }
+  .navbar-nav {
+    font-weight: 300;
+    font-size: 13px;
+    padding-right: 70px;
+    padding-top: 40px;
+    letter-spacing: 2.75px;
+  }
+}
+
+.bio {
+  .intro-self {
+    letter-spacing: 3px;
+    font-weight: 300;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+  .detail-self {
+    font-weight: 300;
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 70px;
+    padding-left: 10px;
+  }
+}
+
+.projectsection {
+  padding-left: 120px;
+  padding-right: 120px;
+
+  img {
+    width: 525px;
+  }
+  .projectTitle {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 4px;
+  }
+
+  .projectDesc {
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .projectTools {
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1.25px;
+  }
+  .fa {
+    font-size: 20px;
+    padding-right: 10px;
+    color: black;
+  }
+  .fa:hover {
+    color: gray;
+  }
+}
