@@ -26,8 +26,8 @@
   }
 }
 
-
 .bio {
+  margin-top: 90px;
   .widepic {
     height: 700px;
   }
@@ -35,7 +35,7 @@
     letter-spacing: 3px;
     font-weight: 300;
     font-size: 25px;
-    padding-top: 20px;
+    padding-top: 35px;
     padding-bottom: 30px;
     padding-left: 70px;
     padding-right: 25px;
@@ -52,8 +52,10 @@
 }
 
 .projectsection {
+  padding-top: 100px;
   padding-left: 70px;
   padding-right: 70px;
+
 
   img {
     width: 525px;
@@ -85,7 +87,7 @@
 }
 
 footer {
-  height: 500px;
+  height: 650px;
 
   .hello {
     font-family: 'Source Code Pro';
