@@ -1,2 +1,2 @@
 
-[portfolio]: http://gracelee.surge.sh/#home
+[portfolio](http://gracelee.surge.sh/#home)
