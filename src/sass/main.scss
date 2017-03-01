@@ -27,27 +27,27 @@
 }
 
 .bio {
-  margin-top: 90px;
+  margin-top: 80px;
   .widepic {
-    height: 700px;
+    height: 650px;
+    padding-left: 50px;
   }
   .intro-self {
-    letter-spacing: 3px;
+    letter-spacing: 5px;
     font-weight: 300;
     font-size: 25px;
     padding-top: 35px;
-    padding-bottom: 30px;
-    padding-left: 70px;
-    padding-right: 25px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 80px;
   }
   .detail-self {
     font-weight: 300;
     font-size: 15px;
     letter-spacing: 1px;
-    padding-top: 20px;
     padding-bottom: 30px;
     padding-right: 70px;
-    padding-left: 10px;
+    padding-left: 35px;
   }
 }
 
